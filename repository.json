@@ -1,0 +1,18 @@
+{
+  "author": "Maxime Boissonneault",
+  "gitHubUrl": "https://github.com/mboisson",
+  "packages": [
+    {
+      "id": "e6f13a60-11b2-48a5-a3a0-165546867f9e",
+      "name": "Stelpro Allia ZigBee Thermostat",
+      "category": "Utility",
+      "location": "https://raw.githubusercontent.com/mboisson/Hubitat-Stelpro-Allia-Thermostat/main/packageManifest.json",
+      "description": "Zigbee driver for Stelpro Allia Zigbee Thermostats",
+      "tags": [
+        "Climate Control",
+	"Zigbee",
+	"Energy Monitoring"
+      ]
+    }
+  ]
+}
