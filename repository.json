@@ -10,8 +10,22 @@
       "description": "Zigbee driver for Stelpro Allia Zigbee Thermostats",
       "tags": [
         "Climate Control",
-	"Zigbee",
-	"Energy Monitoring"
+        "Zigbee",
+        "Energy Monitoring"
+      ]
+    },
+    {
+      "id": "30dec819-a613-458f-b722-eaaf9280ceba",
+      "name": "Advanced Broadlink Remote",
+      "category": "Convenience",
+      "location": "https://raw.githubusercontent.com/mboisson/Hubitat-Advanced-Broadlink-Remote/main/packageManifest.json",
+      "description": "Combine power monitors and IR Broadlink remotes to turn dumb appliances into smart ones",
+      "tags": [
+        "IR & RF",
+	"Appliances",
+	"Cleaning Devices",
+	"Misc. Devices",
+	"Multimedia"
       ]
     }
   ]
