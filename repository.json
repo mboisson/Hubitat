@@ -22,10 +22,21 @@
       "description": "Combine power monitors and IR Broadlink remotes to turn dumb appliances into smart ones",
       "tags": [
         "IR & RF",
-	"Appliances",
-	"Cleaning Devices",
-	"Misc. Devices",
-	"Multimedia"
+        "Appliances",
+        "Cleaning Devices",
+        "Misc. Devices",
+        "Multimedia"
+      ]
+    },
+    {
+      "id": "8cc4674f-ebc4-4edd-8118-2ac1e8f451a5",
+      "name": "MeteoMatics",
+      "category": "Integrations",
+      "location": "https://raw.githubusercontent.com/mboisson/Hubitat-MeteoMatics/main/packageManifest.json",
+      "description": "Driver for the MeteoMatics API",
+      "tags": [
+	      "Weather",
+	      "Cloud"
       ]
     }
   ]
